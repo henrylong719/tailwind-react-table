@@ -1,5 +1,7 @@
 # tailwind-react-table
 
+Table component for ResVu Pty Ltd
+
 Please reference
 
 https://www.notion.so/resvu/TailwindReactTable-Quick-Start-433cce2fbd0a4f81bc5238b4ad1853b2
